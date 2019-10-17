@@ -1,3 +1,4 @@
+/*This algorithm is used to calculting factorial*/
 import java.math.BigInteger;
 
 public class factorial{
